@@ -1,0 +1,38 @@
+.menu {
+  background-color: red;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.menu li {
+  display: inline;
+  flex: left;
+  margin-right: 4px;
+}
+
+/*
+    Card Component
+*/
+
+.cardBody {
+  width: 200px;
+  background-color: #adadad;
+  border: 1px solid;
+}
+
+.cardBody li {
+  list-style-type: none;
+  flex: left;
+  margin-top: 5px;
+  box-sizing: content-box;
+  display: inline;
+}
+
+.cardBody li h4 {
+  display: inline;
+}
+
+#img {
+  width: 200px;
+}
