@@ -1,16 +1,3 @@
-.menu {
-  background-color: red;
-  padding: 10px;
-  box-sizing: border-box;
-  margin-bottom: 10px;
-}
-
-.menu li {
-  display: inline;
-  flex: left;
-  margin-right: 4px;
-}
-
 /*
     Card Component
 */
